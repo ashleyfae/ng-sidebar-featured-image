@@ -16,7 +16,7 @@
 // Include the widget.
 include_once plugin_dir_path( __FILE__ ) . 'class-featured-image-widget.php';
 
-// Register the widget with WordPress.
+// Register the widget with WordPress. Requires PHP5.3+.
 add_action( 'widgets_init', function(){
 	register_widget( 'NG_Featured_Image_Widget' );
 });
