@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Set up for the featured image widget.
+ * Set up for the featured image widget. 
  *
  * @package   ng-sidebar-featured-image
  * @copyright Copyright (c) 2016, Nose Graze Ltd.
